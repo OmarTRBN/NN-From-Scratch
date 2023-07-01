@@ -8,3 +8,11 @@ def sigmoid_derivative(x):
     y = sigmoid(x)
     dy = y*(1-y)
     return dy
+
+activations = {
+    "sigmoid": sigmoid
+}
+
+activation_derivatives = {
+    "sigmoid": sigmoid_derivative
+}
