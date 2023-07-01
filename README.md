@@ -1,0 +1,1 @@
+My not-so-great attempt at making my own neural network kind-of-app. I use numpy and my humble intelligence to make this. It's still a work in progress obviously, so be patient as I keep working on this attempt at something truly great (or incredibly disastrous).
